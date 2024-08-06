@@ -2,7 +2,18 @@
 
 ### Info
 
-- Working on: Peacekeeper (UCI Chess Engine)
+Programs competitively and for fun, familiiar with C++/C and Python.
+
+### Current Projects
+
+- Always changing :wink:
+
+## Past Projects
+
+- Peacekeeper (UCI Chess Engine)
+
+### Contact
+
 - Discord: sazgr
 
 ### Stats
