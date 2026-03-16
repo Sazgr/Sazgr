@@ -2,7 +2,7 @@
 
 ### Info
 
-Former competitive programmer who now programs for fun, familiiar with C++/C and Python.
+Former competitive programmer who now programs for fun, familiar with C++/C and Python.
 
 ### Current Projects
 
